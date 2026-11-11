@@ -7,6 +7,7 @@ I'm currently learning Data Structures and Algorithms and uploading my solutions
 ## 💻 Language
 - C
 - C++
+- Python
 
 ## 📚 Topics
 
